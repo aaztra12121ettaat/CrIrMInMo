@@ -2,7 +2,7 @@
 
 ### Argomenti
 
-I primi strumenti elettronici; Pierre Schaeffer, la musica concreta e gli oggetti sonori; gli Studi di Colonia e di Milano; i Laboratori Bell; la notazione della musica elettronica; EDGAR VARESE; KARLHEINZ STOCKHAUSEN; FRANCO EVANGELISTI; LUCIANO BERIO; BRUNO MADERNA; MAX MATHEWS; JOHN CHOWNING; JEAN-CLAUDE RISSET; LUIGI NONO; PIERRE BOULEZ; le "Scuole" degli anni '60 in Italia; l'IRCAM; AIMI, SIM e Centro Tempo Reale; i centri più importanti per la ricerca dell'Informatica Musicale; i temi della ricerca dell'Informatica Musicale.
+I primi strumenti musicali elettronici (Telharmonium, Theremin, Ondes Martenot); Pierre Schaeffer, la musica concreta e gli oggetti sonori; gli Studi di Colonia e di Milano; i Laboratori Bell; la notazione della musica elettronica; EDGAR VARESE; KARLHEINZ STOCKHAUSEN; FRANCO EVANGELISTI; LUCIANO BERIO; BRUNO MADERNA; MAX MATHEWS; JOHN CHOWNING; JEAN-CLAUDE RISSET; LUIGI NONO; PIERRE BOULEZ; le "Scuole" (Firenze, Torino, Padova) degli anni '60 in Italia; l'IRCAM; AIMI, SIM e Centro Tempo Reale; i centri attuali più importanti per la ricerca dell'Informatica Musicale (IRCAM, CSC, MTG, CCRMA, C4DM); i temi attuali della ricerca dell'Informatica Musicale.
 
 ### Ascolti
 
