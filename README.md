@@ -27,7 +27,7 @@ L. Nono – Ricorda cosa ti hanno fatto in Auschwitz.
 
 1) Scegliere un brano tra "Turenas" o "Sud" e analizzarne i primi minuti in base a quanto detto in classe, considerando dati di ascolto oggettivi, soggettivi e notizie storiche riguardanti il brano e l'autore del brano.
 
-2) Rispondere almeno a cinque delle seguenti domande: 
+2) Rispondere almeno a cinque dei seguenti punti: 
 a) Trattare brevemente di Pierre Schaeffer.
 b) Cosa è lo Studio di Colonia? In cosa si differenzia maggiormente rispetto alla musica concreta?
 c) Quale è il personaggio maggiormente rilevante dei Laboratori Bell? Per cosa è ricordato? 
@@ -42,7 +42,7 @@ m) Trattare brevemente di Luigi Nono.
 n) Trattare brevemente di Jean-Claude Risset.
 
 
-### Riferimenti per approfondimenti:
+### Riferimenti per approfondimenti
 
 - Armando Gentilucci, "Introduzione alla musica elettronica"
 - H. Pousseur, "La Musica Elettronica"
