@@ -39,3 +39,11 @@ h) Descrivere brevemente la partitura di "Studio II".
 i) Cosa si intende per "strumenti aumentati"?
 l) Trattare brevemente di Luciano Berio.
 m) Trattare brevemente di Luigi Nono.
+n) Trattare brevemente di Jean-Claude Risset.
+
+
+### Riferimenti per approfondimenti:
+
+- Armando Gentilucci, "Introduzione alla musica elettronica"
+- H. Pousseur, "La Musica Elettronica"
+- Autori i cui articoli sono reperibili in rete: A. Vidolin, A. Di Scipio, N. Bernardini, M. Chion.
