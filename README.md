@@ -32,7 +32,7 @@ a) Trattare brevemente di Pierre Schaeffer.
 b) Cosa è lo Studio di Colonia? In cosa si differenzia maggiormente rispetto alla musica concreta?
 c) Quale è il personaggio maggiormente rilevante dei Laboratori Bell? Per cosa è ricordato? 
 d) Cosa sono le partiture d'ascolto?
-e) Chi sono gli esponenti delle tre Scuole italiane degli anni '60?
+e) Chi sono gli esponenti principali delle tre Scuole italiane degli anni '60?
 f) Cosa è l'IRCAM e di cosa si occupa?
 g) Dove si trova il Centro Tempo Reale? Chi lo ha fondato?
 h) Descrivere brevemente la partitura di "Studio II".
