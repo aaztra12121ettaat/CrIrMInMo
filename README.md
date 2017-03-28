@@ -47,3 +47,24 @@ n) Trattare brevemente di Jean-Claude Risset.
 - Armando Gentilucci, "Introduzione alla musica elettronica"
 - Henri Pousseur, "La Musica Elettronica"
 - Autori i cui articoli sono reperibili in rete: A. Vidolin, A. Di Scipio, N. Bernardini, M. Chion.
+
+
+## Dal Suono Analogico al Suono Digitale
+
+
+### Argomenti
+
+Suono; Ciclo, periodicità, periodo, frequenza, lunghezza d'onda; Onda sinusoidale e altri tipi di onde; Le caratteristiche del Suono; Frequenza (unità di misura, limiti di udibilità dell'uomo, infrasuoni, ultrasuoni, intervallo di ottava); Ampiezza (unità di misura, limiti di udibilità dell'uomo); Somma di onde; Timbro: Suoni puri e Suoni complessi, spettro e onda risultante del Suono armonico, spettro e onda risultante del Suono inarmonico; Transitori; Teoria classica e teoria moderna del timbro; Campionamento (periodo di campionamento, frequenza di campionamento, teorema di Nyquist); Errore di quantizzazione.
+
+
+## Ascolti
+
+Esempi relativi agli argomenti trattati.
+
+
+## Tasks (da consegnarsi il 10/04/2017)
+
+
+
+
+
