@@ -1,4 +1,6 @@
-## Informatica Musicale - Introduzione storica
+(lezione, argomenti e tasks più recenti in fondo)
+
+## Lezione 1), 2). Informatica Musicale - Introduzione storica
 
 
 ### Argomenti
@@ -49,7 +51,7 @@ n) Trattare brevemente di Jean-Claude Risset.
 - Autori i cui articoli sono reperibili in rete: A. Vidolin, A. Di Scipio, N. Bernardini, M. Chion.
 
 
-## Dal Suono Analogico al Suono Digitale
+## Lezione 3). Dal Suono Analogico al Suono Digitale
 
 
 ### Argomenti
