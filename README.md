@@ -62,7 +62,16 @@ Suono; Ciclo, periodicità, periodo, frequenza, lunghezza d'onda; Onda sinusoida
 Esempi relativi agli argomenti trattati.
 
 
-## Tasks (da consegnarsi il 10/04/2017)
+## Tasks (da consegnare il 10/04/2017)
+
+1) Analizzare brevemente almeno una delle seguenti figure (cosa rappresenta la figura? quale grandezza è rappresentata sull'asse orizzontale, quale sull'asse verticale, il suono è armonico o inarmonico? perchè?...).
+
+<img src="https://github.com/azreta/CIMIM/blob/gh-pages/spettro.png" alt=" ">
+
+<img src="https://github.com/azreta/CIMIM/blob/gh-pages/spettro1.png" alt=" ">
+
+2) Rispondere almeno a tre dei seguenti punti: a) Cosa è il suono?; Cosa sono il periodo e la frequenza del suono? b) Frequenza: unità di misura? limiti di udibilità dell'uomo?; Ampiezza: unità di misura? limiti di udibilità dell'uomo? c) Quale è la differenza tra suono puro e suono complesso?; Come viene chiamato il suono puro? d) Quali caratteristiche hanno lo spettro e l'onda risultante di un suono armonico?; Quali caratteristiche hanno lo spettro e l'onda risultante di un suono inarmonico? e) Quali sono i transitori di un suono? f) Cosa sosteneva la teoria classica del timbro?; Cosa sostiene la teoria moderna del timbro? g) Come si presenta un segnale campionato?; Cosa è il periodo di campionamento?; Cosa è la frequenza di campionamento? h) Cosa è il teorema di Nyquist?
+
 
 
 
