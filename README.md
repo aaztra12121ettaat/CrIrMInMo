@@ -78,7 +78,7 @@ Esempi relativi agli argomenti trattati.
 
 ### Argomenti
 
-Il sintetizzatore come strumento musicale; Esecuzione in tempo reale e in tempo differito; Voltage Control; Modularità; Il sintetizzatore come strumento elettronico; Struttura del sintetizzatore (circuiti di generazione, elaborazione e controllo); Segnali audio e tensioni di controllo; Denominazione dei circuiti (AS, VC, O, VCO, NG, F, VCF, EG, ADSR, A, VCA, RM, K); Schema a blocchi; Oscillatori; Generatori di rumore bianco; Filtri; Generatori di inviluppo; Amplificatori; Modulatori ad anello; Tastiera, pedale, joystick; Cenni di storia del sintetizzatore.
+Il sintetizzatore come strumento musicale; Esecuzione in tempo reale e in tempo differito; Voltage Control; Modularità; Il sintetizzatore come strumento elettronico; Struttura del sintetizzatore (circuiti di generazione, elaborazione e controllo); Segnali audio e tensioni di controllo; Denominazione dei circuiti e altre abbreviazioni (AS, VC, O, VCO, NG, F, VCF, EG, ADSR, A, VCA, RM, K); Schema a blocchi; Oscillatori; Generatori di rumore bianco; Filtri; Generatori di inviluppo; Amplificatori; Modulatori ad anello; Tastiera, pedale, joystick; Cenni di storia del sintetizzatore.
 
 
 ### Audiovideo
