@@ -104,7 +104,7 @@ Il sintetizzatore come strumento musicale; Esecuzione in tempo reale e in tempo 
 Cosa è la Sintesi del Suono e con quali strumenti viene effettuata. Csound, Max/MSP, Pure Data: cenni storici riguardanti nascita, inventore, predecessori... Differenze e uguaglianze tra Csound, Max/MSP e PD. Come funziona Csound: i file di input (file .orc, file .sco, file .csd) e i file di output (file .wav, file .aiff); gli opcode; oscil e i suoi argomenti, le variabili audio e di controllo, linseg. Introduzione al sistema look-up table. Come funziona Pure Data: la patcher, gli oggetti: osc~, messaggi, numeri, moltiplicatore; implementazione di un semplice algoritmo. Sintesi Additiva e Sintesi Sottrattiva: teoria e rappresentazione grafica. 
 
 
-### Tasks 
+### Tasks (da consegnare il 29/05/2017)
 
 1) Illustrare graficamente la Sintesi Additiva e la Sintesi Sottrattiva e spiegare brevemente l'illustrazione.
 
