@@ -132,7 +132,7 @@ Classificazione delle Tecniche di sintesi del suono (Tecniche lineari, non linea
 
 ### Tasks (da consegnare il 12/06/2017)
 
-1) Rispondere almeno a cinque dei seguenti punti: a) Delineare la classificazione delle Tecniche di Sintesi in: Sintesi cje prendono a modello il segnale... b) Cosa si intende per Tecniche lineari; fornire almeno un esempio di tecniche di sintesi lineari. c) Cosa si intende per Tecniche non lineari; fornire almeno un esempio di tecniche di sintesi non lineari. d) In cosa differeiscono tra loro la AM e la RM, per qunato riguarda il segnale risultante? e) Trattare brevemente dells Sintesi granulare. f) Trattare brevemente dell'algoritmo di Karplus-Strong. g) Quali sono i quattro tipi di "spazi della musica" proposti da A. Vidolin? Descrivere brevemente ognuno dei quattro.
+1) Rispondere almeno a cinque dei seguenti punti: a) Delineare la classificazione delle Tecniche di Sintesi in: Sintesi che prendono a modello il segnale... b) Cosa si intende per Tecniche lineari; fornire almeno un esempio di tecniche di sintesi lineari. c) Cosa si intende per Tecniche non lineari; fornire almeno un esempio di tecniche di sintesi non lineari. d) In cosa differiscono tra loro la AM e la RM, per quanto riguarda il segnale risultante? e) Trattare brevemente della Sintesi granulare. f) Descrivere l'algoritmo di Karplus-Strong. g) Quali sono i quattro tipi di "spazi della musica" proposti da A. Vidolin? Descrivere brevemente ognuno dei quattro.
 
 2) FACOLTATIVO - Descrivere brevemente un'idea per una possibile installazione d'arte.
 
@@ -143,4 +143,4 @@ Classificazione delle Tecniche di sintesi del suono (Tecniche lineari, non linea
 
 - Atti del CIM 2008 http://smc.dei.unipd.it/cim_proceedings/2008_CIM_XVII_Atti.pdf
 - Articolo sullo spazio di A. Vidolin http://www.dei.unipd.it/~musica/Dispense/VidolinSuonare.pdf
-- Atti della maggiori Conferenze afferenti all'Informatica musicale (ICMC, SMC, ICSC, NIME, DAFx...)
+- Atti della maggiori Conferenze afferenti all'Informatica Musicale (ICMC, SMC, ICSC, NIME, DAFx...)
