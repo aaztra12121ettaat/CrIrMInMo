@@ -136,7 +136,7 @@ Classificazione delle Tecniche di sintesi del suono (Tecniche lineari, non linea
 
 2) FACOLTATIVO - Descrivere brevemente un'idea per una possibile installazione d'arte.
 
-3) FACOLTATIVO - Aprire in PD questo file https://github.com/azreta/CIMIM/blob/gh-pages/sint.pd e descrivere brevemente il funzionamento dell'algoritmo implementato.
+3) FACOLTATIVO - Aprire in PD questo file https://github.com/azreta/CIMIM/blob/gh-pages/sint.pd e descrivere il funzionamento dell'algoritmo implementato.
 
 
 ### Riferimenti per approfondimenti
