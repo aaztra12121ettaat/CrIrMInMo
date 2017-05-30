@@ -96,7 +96,7 @@ Il sintetizzatore come strumento musicale; Esecuzione in tempo reale e in tempo 
 
 
 
-## Lezione 5), 6). La Sintesi del Suono 
+## Lezione 5), 6). La Sintesi del Suono I
 
 
 ### Argomenti
@@ -122,3 +122,25 @@ Cosa è la Sintesi del Suono e con quali strumenti viene effettuata. Csound, Max
 
 
 
+## Lezione 7). La Sintesi del Suono II. La Ricerca dell'Informatica Musicale I 
+
+
+### Argomenti
+
+Classificazione delle Tecniche di sintesi del suono (Tecniche lineari, non lineari...). Modulazione di Ampiezza, Ring Modulazione, Sintesi granulare: teoria. Sintesi per modelli fisici (algoritmo di Karplus-Strong: breve spiegazione, funzionamento, rappresentazione grafica). Le interfacce per il controllo di processi musicali. Le installazioni d'arte. La spazializzazione del Suono (approfondimento sugli "spazi della musica").  
+
+
+### Tasks (da consegnare il 12/06/2017)
+
+1) Rispondere almeno a cinque dei seguenti punti: a) Delineare la classificazione delle Tecniche di Sintesi in: Sintesi cje prendono a modello il segnale... b) Cosa si intende per Tecniche lineari; fornire almeno un esempio di tecniche di sintesi lineari. c) Cosa si intende per Tecniche non lineari; fornire almeno un esempio di tecniche di sintesi non lineari. d) In cosa differeiscono tra loro la AM e la RM, per qunato riguarda il segnale risultante? e) Trattare brevemente dells Sintesi granulare. f) Trattare brevemente dell'algoritmo di Karplus-Strong. g) Quali sono i quattro tipi di "spazi della musica" proposti da A. Vidolin? Descrivere brevemente ognuno dei quattro.
+
+2) FACOLTATIVO - Descrivere brevemente un'idea per una possibile installazione d'arte.
+
+3) FACOLTATIVO - Aprire in PD questo file https://github.com/azreta/CIMIM/blob/gh-pages/sint.pd e descrivere brevemente il funzionamento dell'algoritmo implementato.
+
+
+### Riferimenti per approfondimenti
+
+- Atti del CIM 2008 http://smc.dei.unipd.it/cim_proceedings/2008_CIM_XVII_Atti.pdf
+- Articolo sullo spazio di A. Vidolin http://www.dei.unipd.it/~musica/Dispense/VidolinSuonare.pdf
+- Atti della maggiori Conferenze afferenti all'Informatica musicale (ICMC, SMC, ICSC, NIME, DAFx...)
