@@ -127,7 +127,7 @@ Cosa è la Sintesi del Suono e con quali strumenti viene effettuata. Csound, Max
 
 ### Argomenti
 
-Classificazione delle Tecniche di sintesi del suono (Tecniche lineari, non lineari...). Modulazione di Ampiezza, Ring Modulazione, Sintesi granulare: teoria. Sintesi per modelli fisici (algoritmo di Karplus-Strong: breve spiegazione, funzionamento, rappresentazione grafica). Le interfacce per il controllo di processi musicali. Le installazioni d'arte. La spazializzazione del Suono (approfondimento sugli "spazi della musica").  
+Classificazione delle Tecniche di sintesi del suono (Tecniche lineari, non lineari...). Modulazione di Ampiezza, Ring Modulazione, Sintesi granulare: teoria. Sintesi per modelli fisici (algoritmo di Karplus-Strong: breve spiegazione, funzionamento, rappresentazione grafica). Le interfacce per il controllo di processi musicali (esempi). Le installazioni d'arte (definizione, esempi). La spazializzazione del Suono (approfondimento sugli "spazi della musica").  
 
 
 ### Tasks (da consegnare il 12/06/2017)
