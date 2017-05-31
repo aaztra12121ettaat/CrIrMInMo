@@ -143,4 +143,4 @@ Classificazione delle Tecniche di sintesi del suono (Tecniche lineari, non linea
 
 - Atti del CIM 2008 http://smc.dei.unipd.it/cim_proceedings/2008_CIM_XVII_Atti.pdf
 - Articolo sullo spazio di A. Vidolin http://www.dei.unipd.it/~musica/Dispense/VidolinSuonare.pdf
-- Atti della maggiori Conferenze afferenti all'Informatica Musicale (ICMC, SMC, ICSC, NIME, DAFx...)
+- Atti delle maggiori Conferenze afferenti all'Informatica Musicale (ICMC, SMC, ICSC, NIME, DAFx...)
