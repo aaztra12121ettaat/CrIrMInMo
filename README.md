@@ -134,7 +134,7 @@ Classificazione delle Tecniche di sintesi del suono (Tecniche lineari, non linea
 
 1) Rispondere almeno a cinque dei seguenti punti: a) Delineare la classificazione delle Tecniche di Sintesi in: Sintesi che prendono a modello il segnale... b) Cosa si intende per Tecniche lineari; fornire almeno un esempio di tecniche di sintesi lineari. c) Cosa si intende per Tecniche non lineari; fornire almeno un esempio di tecniche di sintesi non lineari. d) In cosa differiscono tra loro la AM e la RM, per quanto riguarda il segnale risultante? e) Trattare brevemente della Sintesi granulare. f) Descrivere l'algoritmo di Karplus-Strong. g) Quali sono i quattro tipi di "spazi della musica" proposti da A. Vidolin? Descrivere brevemente ognuno dei quattro.
 
-2) FACOLTATIVO - Descrivere brevemente un'idea per una possibile installazione d'arte.
+2) FACOLTATIVO - Descrivere brevemente un'idea (personale ed originale) per una possibile installazione d'arte.
 
 3) FACOLTATIVO - https://github.com/azreta/CIMIM/blob/gh-pages/sint.pd.zip scaricare il file dal precedente indirizzo, quindi aprirlo in PD e descrivere il funzionamento dell'algoritmo implementato.
 
