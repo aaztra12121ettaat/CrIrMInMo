@@ -144,3 +144,19 @@ Classificazione delle Tecniche di sintesi del suono (Tecniche lineari, non linea
 - Atti del CIM 2008 http://smc.dei.unipd.it/cim_proceedings/2008_CIM_XVII_Atti.pdf
 - Articolo sullo spazio di A. Vidolin http://www.dei.unipd.it/~musica/Dispense/VidolinSuonare.pdf
 - Atti delle maggiori Conferenze afferenti all'Informatica Musicale (ICMC, SMC, ICSC, NIME, DAFx...)
+
+
+## Situazione tesine
+
+Risultano mancanti le tesine di:
+
+- COPPEDE' tutte tranne la 2
+- MAZZANTI, SIMONI, CECCARELLI tutte tranne la 1
+- SCALSINI la 2 e la 3
+- PIERACCINI, FRONCILLO la 1
+- BUTI, LIBRALE, MELI, PICONE, DEI, DIAMANTI, FONTANI, LUTI l'ultima
+- FILIPPEDDU, GUBELADZE, EMANUELE tutte
+
+### - N.B.1 I nomi riportati sono quelli scritti sul registro, nell'elenco non si è quindi tenuto conto delle assenze (per le quali è previsto un numero massimo da non superare).
+### - N.B.2 Alternativamente alle tesine è possibile sostenere l'esame del corso tramite colloquio orale riguardante tutto il programma svolto.
+### - N.B.3 Il termine per la consegna delle tesine mancanti (vd. sopra) è il 12 giugno.
