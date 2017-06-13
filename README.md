@@ -160,3 +160,25 @@ Risultano mancanti le tesine di:
 ### - N.B.1 I nomi riportati sono quelli scritti sul registro, nell'elenco non si è quindi tenuto conto delle assenze (per le quali è previsto un numero massimo da non superare).
 ### - N.B.2 Alternativamente alle tesine è possibile sostenere l'esame del corso tramite colloquio orale riguardante tutto il programma svolto.
 ### - N.B.3 Il termine per la consegna delle tesine mancanti (vd. sopra) è il 12 giugno.
+
+
+
+## Lezione 8). Analisi e Editing del Suono 
+
+
+### Argomenti
+
+I formati digitali (formato e codifica, wav, aiff, midi, la compressione loseless e lossy, flac, MP1, MP2, MP3, ogg vorbis). Il concetto di mascheramento. Il Teorema di Fourier, la FFT, dallo spettro al sonogramma allo spettrogramma. Il concetto di fase (unità di misura, onde in fase, sfasate, in controfase, funzione seno e coseno...), dal moto armonico al moto circolare, i battimenti. La risintesi, la IFFT. Editing del suono, introduzione a Audacity (operazioni di base, effetti principali...). Introduzione agli effetti, Eco (spiegazione teorica, "emulazione software"...), Riverbero (spiegazione teorica). 
+
+
+### Tasks (da consegnare il 19/06/2017)
+
+1) Rispondere alle seguenti domande con V o F: a) I formati wav, aiff e mp3 permettono più tipi di codifica. b) flac e ogg vorbis sono formati compressi lossy. c) Il sonogramma è una rappresentazione in 3D in cui sono presenti i parametri tempo e frequenza delle componenti del suono. d) La fase si può misurare in gradi e in radianti. e) Due onde in controfase sono sfasate di 360°. f) Tramite la FFT si ottiene lo spettro di un suono. g) I battimenti sono prodotti in presenza di due onde che abbiano frequenze che differiscono per più di 20 Hz. h) Le onde risultanti dalla funzione seno e dalla funzione coseno sono sfasate di 180°. i) Nel'eco le ripetizioni hanno minor potenza sonora e timbro più acuto rispetto al suono originario. l) Nel riverbero solo le ultime riflessioni giungono all'ascoltatore sovrapposte tra loro. m) Nell'emulazione dell'eco la linea di ritardo rappresenta il tempo di percorrenza tra sorgente e ostacolo. n) 44100Hz, 48000Hz, 96000Hz intese come frequenze di campionamento sono opzioni di codifica. 
+
+
+### Riferimenti per approfondimenti
+
+- http://www.audacityteam.org
+- Manuale utente di Audacity
+- J. R. Pierce, "La scienza del suono"
+
