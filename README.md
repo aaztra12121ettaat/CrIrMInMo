@@ -182,3 +182,10 @@ I formati digitali (formato e codifica, wav, aiff, midi, la compressione loseles
 - Manuale utente di Audacity
 - J. R. Pierce, "La scienza del suono"
 
+
+
+## Situazione presenze/assenze
+
+- Risultano necessitare di due presenze: Meli, Picone, Simoni, Pieraccini    
+- Risultano necessitare _almeno_ di una presenza: Librale, Barni, Diamanti, Fontani, Scalsini, Ceccarelli
+
