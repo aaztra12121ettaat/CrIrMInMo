@@ -219,7 +219,7 @@ Cenni di Analisi Insiemistica: scopo, metodi, operazioni; concetto di “pitch-c
 ## Lezione 10).
 
 
-Discussione individuale delle prove scritte realizzate dagli studenti durante il periodo di svolgimento del corso, che costituiranno parte integrante dell’esame orale finale.
+Discussione individuale sulle prove scritte realizzate dagli studenti durante il periodo di svolgimento del corso, che costituiranno parte integrante dell’esame orale finale.
 
 
 
