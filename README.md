@@ -189,3 +189,36 @@ I formati digitali (formato e codifica, wav, aiff, midi, la compressione loseles
 ### - Risultano necessitare di due presenze: Meli, Picone, Simoni, Pieraccini    
 ### - Risultano necessitare _almeno_ di una presenza: Librale, Barni, Diamanti, Fontani, Scalsini, Ceccarelli
 
+
+
+## Lezione 9). La Ricerca dell'Informatica Musicale II
+
+
+### Argomenti
+
+Cenni di Analisi Insiemistica: scopo, metodi, operazioni; concetto di “pitch-class”; Allen Forte. Cenni sul concetto di “pitch space” con particolare riferimento al modello a elica di M. W. Drobish. Presentazione di uno studio di caso volto all’integrazione dei sopracitati, tramite utilizzo dell’audio feature Spectral Centroid. Introduzione all’ Elaborazione numerica del Segnale (principali tools e centri di ricerca dedicati). Audio Features, esempi e principali tools dedicati. Music Features, esempi e principali tools dedicati. Introduzione alla audio e music features extraction. Presentazione di uno studio di caso con applicazione dell’estrazione dell’audio feature Dissonanza intesa come Sensory Dissonance. Breve introduzione al concetto di Dissonanza e di Sensory Dissonance.
+
+
+### Riferimenti per approfondimenti
+
+- I. Bent, W. Drabkin, Analisi musicale
+- M. W. Drobish, Uber musikalische Tonbestimmung und Temperatur in Abhandlungen der Mathematisch-Physischen Klasse der Sachsischen Akademie der Wissenschaften 
+- A. Forte, The Structure of Atonal Music
+- D. Bogdanov, N. Wack, E. Gomez, et al., ESSENTIA: an Open-Source Library for Sound and Music Analysis in Proceedings of the 21st ACM international conference on Multimedia 
+- R. Plomp, W. J. M. Levelt, Tonal consonance and critical bandwidth in Journal of the Acoustical Society of America Vol.38 - - G. Tzanetakis, P. Cook, Marsyas, A framework for audio analysis in Organised Sound Vol.48 
+- H. L. F. Helmholtz, On the sensations of tone as a physiological basis for the theory of music
+- https://github.com/MTG/essentia
+- https://github.com/MTG/sms-tools 
+- https://github.com/jamiebullock/LibXtract 
+- http://marsyas.info
+- http://jmir.sourceforge.net/jAudio.html
+
+
+
+## Lezione 10)
+
+
+Discussione individuale delle prove scritte realizzate dagli studenti durante il periodo di svolgimento del corso, che costituiranno parte integrante dell’esame orale finale.
+
+
+
