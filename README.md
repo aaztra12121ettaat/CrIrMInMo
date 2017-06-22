@@ -205,7 +205,8 @@ Cenni di Analisi Insiemistica: scopo, metodi, operazioni; concetto di “pitch-c
 - M. W. Drobish, Uber musikalische Tonbestimmung und Temperatur in Abhandlungen der Mathematisch-Physischen Klasse der Sachsischen Akademie der Wissenschaften 
 - A. Forte, The Structure of Atonal Music
 - D. Bogdanov, N. Wack, E. Gomez, et al., ESSENTIA: an Open-Source Library for Sound and Music Analysis in Proceedings of the 21st ACM international conference on Multimedia 
-- R. Plomp, W. J. M. Levelt, Tonal consonance and critical bandwidth in Journal of the Acoustical Society of America Vol.38 - - G. Tzanetakis, P. Cook, Marsyas, A framework for audio analysis in Organised Sound Vol.48 
+- R. Plomp, W. J. M. Levelt, Tonal consonance and critical bandwidth in Journal of the Acoustical Society of America Vol.38 
+- G. Tzanetakis, P. Cook, Marsyas, A framework for audio analysis in Organised Sound Vol.48 
 - H. L. F. Helmholtz, On the sensations of tone as a physiological basis for the theory of music
 - https://github.com/MTG/essentia
 - https://github.com/MTG/sms-tools 
